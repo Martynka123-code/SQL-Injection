@@ -1,4 +1,4 @@
-# Laboratorium: SQL-Injection
+# Laboratorium: SQL Injection
 
 **Środowisko:** Damn Vulnerable Web Application (DVWA) - Docker  
 **Cel:** Praktyczna identyfikacja, wykorzystanie podatności SQL Injection (In-band, Blind) oraz analiza metod obrony.
